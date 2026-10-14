@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rafael 👋</h1>
 
 <p align="center">
-  <a href="https://rafaoliveira.dev.br/pt"><b>Desenvolvedor Full-Stack e Web Designer</b></a><br />
+  <a href="https://rafaoliveira.dev.br/pt"><b>Desenvolvedor Full-Stack</b></a><br />
   Crio sistemas de agendamento e sites que enchem a agenda do seu negócio
 </p>
 
