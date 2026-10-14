@@ -10,11 +10,11 @@ Sou desenvolvedor full-stack com foco em **Java e Angular**. Atuo como freelance
 
 **Sobre mim**
 
-- 💼 Desenvolvedor Full-Stack e Web Designer, freelancer
+- 💼 Desenvolvedor Full-Stack, freelancer
 
 - 🗓️ Crio **sistemas de agendamento sob medida** e **landing pages** para negócios
 
-- ❤️ Gosto de transformar uma ideia em uma solução
+- ❤️ Gosto de transformar uma ideia em solução
 
 - 🌐 Conheça meu portfólio: [rafaoliveira.dev.br](https://rafaoliveira.dev.br/pt)
 
