@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://rafaoliveira.dev.br/pt"><b>Desenvolvedor Full-Stack</b></a><br />
-  Crio sistemas de agendamento e sites que enchem a agenda do seu negócio
 </p>
 
 <br />
