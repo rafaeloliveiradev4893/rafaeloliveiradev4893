@@ -6,7 +6,7 @@
 
 <br />
 
-Sou desenvolvedor full-stack com foco em **Java e Angular**, e também cuido do design das interfaces que construo. Atendo como freelancer.
+Sou desenvolvedor full-stack com foco em **Java e Angular**. Atuo como freelancer.
 
 **Sobre mim**
 
